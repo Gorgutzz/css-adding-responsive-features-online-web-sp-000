@@ -35,6 +35,6 @@
 }
 
 @media only screen and (max-width: 750px) {
-     #navbar nav {
-         border-left: none;
+     #navbar a {
+         font-size: 0.9em;
      }
